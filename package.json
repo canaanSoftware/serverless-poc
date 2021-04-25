@@ -4,7 +4,6 @@
   "description": "poc-serverless",
   "main": "index.js",
   "scripts": {
-    "build": "netlify dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
