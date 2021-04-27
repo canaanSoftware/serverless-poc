@@ -1,6 +1,6 @@
 # Serverless-poc
 
-Se crearon dos funciones lambada, la primera es una funcion simple y la segunda hace uso de express, y graphql
+Se crearon dos funciones lambda, la primera es una funcion simple y la segunda hace uso de express, y graphql
 
 # Probar lambda (Postman)
 
